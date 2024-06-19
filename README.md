@@ -1,88 +1,100 @@
 # AI Daily Digest（AI每日摘要）
 
-## 2024年6月19日
+## 2024年6月20日
 
-### DeepSeek-Coder-V2代码大模型
-开源的专家混合模型，性能媲美GPT4-Turbo  
-[阅读更多](https://mp.weixin.qq.com/s/UTpOTgBEUBb3oZp_rmJEXw)
+OpenAlpaca：基于OpenLLaMA的全开源指令遵循模型
+https://mp.weixin.qq.com/s/vs9XT7RSUITAvUkBloRwCg
 
-### Omega-AI
-基于Java的深度学习框架，助力快速构建神经网络模型  
-[阅读更多](https://mp.weixin.qq.com/s/rk0UY0IUHs9IqNBpigOxyA)
+Moatless Tools：大型代码库代码编辑的辅助工具
+https://mp.weixin.qq.com/s/Mn1TkDOdPW1eGqo_dm1nIQ
 
-### OmniChain
-为大型语言模型设计的高效自更新可视化工作流工具  
-[阅读更多](https://mp.weixin.qq.com/s/I0MQoW2oPjZQmeO_TGQ5dg)
+OpenAI最新套娃嵌入模型分析：256维的MTEB效果超过1536维
+https://mp.weixin.qq.com/s/ACrClvh9T0BhMYNs9ZGaAw
 
-### Python应用程序打包工具
-简化Python项目打包流程  
-[阅读更多](https://mp.weixin.qq.com/s/FCNDFG4vkxpn5T9rZ7D0eQ)
+纯python的BM25s框架，算法er文本搜索可以不用ES了，速度与效率的王者！
+https://mp.weixin.qq.com/s/o6jm4hVd_nKPc1Ix3y6EHg
 
-### 非常可爱的一个emoji混搭网站
-[阅读更多](https://mp.weixin.qq.com/s/YHOAwAO3-YtXyRO51X6-Gg)
+【LLM】从软件工程视角看大语言模型测试
+https://mp.weixin.qq.com/s/i3lR3CXzc6Ur8RoOFExPjw
 
-### LLM解奥林匹克级别的数学问题
-[阅读更多](https://mp.weixin.qq.com/s/mjNrfKiRTHDWNyNucY_Mbw?poc_token=HHgVcmajHxOgULVP7lNGER1Jh5OID8mC7DoqchSs)
+分析语言与视觉在学习有限数据中的作用
+https://mp.weixin.qq.com/s/65Mee-yqx4kwQaeqX11pNg
 
-### 浅谈英伟达 DGX SuperPod
-[阅读更多](https://mp.weixin.qq.com/s/Ud33Pk8tYdRX1iCa5QxBAw)
+中国算力网络市场发展现状（2024）
+https://mp.weixin.qq.com/s/5aQFv55fGX3xZApWamOCuQ
 
-### 大模型缺的脑子，终于在智能体上长好了
-[阅读更多](https://mp.weixin.qq.com/s/hBvP33Kge78DuJCxaX53OQ)
+使用 LLaMA Factory 进行大语言模型微调
+https://mp.weixin.qq.com/s/1gCLR3ziBKVLpbbVbF25Og
 
-### DeepSeek发布DeepSeek-Coder-V2，性能与GPT4-Turbo相当
-[阅读更多](https://mp.weixin.qq.com/s/lOoGOIDXHihQYsm5Oh12VA)
+10 分钟，教你如何用 LLama-Factory 训练和微调 LLama3 模型
+https://mp.weixin.qq.com/s/GV7HS5uYdwcExux7nt-_Eg
 
-### BiliBili开源Index-1.9B，角色扮演B站评论区老哥
-[阅读更多](https://mp.weixin.qq.com/s/7uhb2lAYz961ZaBJ6bzj4A)
+OpenMoE：开放混合专家语言模型
+https://mp.weixin.qq.com/s/tUkWYpbWxjPdn0qwLLyFrA
 
-### 利用生成式人工智能和大语言模型：医疗融合的全面路线图
-[阅读更多](https://mp.weixin.qq.com/s/u2H3QTmHnapFmWLWM_IMLA)
+230个大模型招投标大单，前三令人意外
+https://mp.weixin.qq.com/s/RO4EVnmIk-VzB_teOmmUhQ
 
-### 社区供稿｜哔哩哔哩大语言模型 Index-1.9B 发布
-[阅读更多](https://mp.weixin.qq.com/s/xYqfzsVN70LRf4ss2RaULA)
+CVPR 2024 最佳论文出炉！我们压中啦！
+https://mp.weixin.qq.com/s/Kp94WXgH-u4H3ZiPsXI3OQ
 
-### 大模型压缩量化方案怎么选？无问芯穹Qllm-Eval量化方案评估-今日头条
-[阅读更多](https://www.toutiao.com/article/7381754534957204009/?app=news_article&timestamp=1718706890&use_new_style=1&req_id=2024061818345096609FAEA073530B4A2E&group_id=7381754534957204009&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=000aef87-6cb5-4840-8960-bfcc78b748c7&source=m_redirect)
+解读 CVPR 2024 最佳论文 | 生成式图像动力学 Generative Image Dynamics
+https://mp.weixin.qq.com/s/rhUJuoVdYL4SpHQy07MuDA
 
-### 开源的网络瑞士军刀「GitHub 热点速览」-今日头条
-[阅读更多](https://www.toutiao.com/article/7381510286106264115/?app=news_article&timestamp=1718701390&use_new_style=1&req_id=202406181703100041E8688F73B903EC05&group_id=7381510286106264115&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9c3d272a-4157-440d-b685-8bb534f84f7f&source=m_redirect)
+解读 CVPR 2024 最佳论文 | 用于文本到图像生成的富人工反馈
+https://mp.weixin.qq.com/s/lDwLT7Qtza-QEJ3fzlcm-Q
 
-### AI Agent 在 1688 电商平台中的应用-今日头条
-[阅读更多](https://www.toutiao.com/article/7381682718825857572/?app=news_article&timestamp=1718701363&use_new_style=1&req_id=20240618170242CE031D2F08A1AD03E0D5&group_id=7381682718825857572&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=ffa3f5bf-4f5e-4e12-b2a3-22ea3c17335a&source=m_redirect)
+英伟达创纪录，登顶全球市值第一！超越苹果和微软，剑指4万亿美元大关
+https://mp.weixin.qq.com/s/DP7KoyTulVRUJC9mTnZt9Q
 
-### 北航等发布时间特征维护：无需训练，极致压缩加速Diffusion-今日头条
-[阅读更多](https://www.toutiao.com/article/7381745435141997071/?app=news_article&timestamp=1718701328&use_new_style=1&req_id=20240618170207CE031D2F08A1AD03D4BE&group_id=7381745435141997071&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=41b7071e-4cff-4428-af86-ecf35ccd118c&source=m_redirect)
+1块3090就能训7B大模型，山东大学低带宽低显存训练法，解决显卡限购卡脖子
+https://mp.weixin.qq.com/s/S-u2P9sWVNbP_R1MGX6YDg
 
-### GPT-4o颠覆世界，700篇大模型论文首次公开！
-[阅读更多](https://mp.weixin.qq.com/s/HrMzugNJ7RtQR8KKYZJhbA)
+ACL2024：浙江大学提出大小模型协同的跨文档理解，低成本高表现
+https://mp.weixin.qq.com/s/xARXhdgfRxZg8ya93koMAg
 
-### 剖析大规模 GPU 集群：针对 LLM 场景的挑战和优化
-[阅读更多](https://mp.weixin.qq.com/s/qUgM5HahbebJpIYiKuT3_w)
+TaskWeaver：微软发布一个以代码为中心AI Agent框架(Autogen升级版)，可处理数据分析；阿里发布qwen-72b；dify新增了工具调用能力_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16C4y1c7rd/?vd_source=5a5c5ff30a5936a703826b4786449b48
 
-### 几款有代表性的AI 爬虫开源项目
-[阅读更多](https://mp.weixin.qq.com/s/mkT2eNrch7F8C_c9s96RAQ)
+GPT-4o颠覆世界，700篇大模型论文首次公开！
+https://mp.weixin.qq.com/s/lnYQ6lHr8D6F4DK_XMnK4Q
 
-### AI大模型数据库底座解决方案深度分析 2024
-[阅读更多](https://mp.weixin.qq.com/s/ZFtfx5NpqcW4mapv5px-xw)
+一条价值百万的Prompt - 知乎
+https://zhuanlan.zhihu.com/p/661441694?utm_campaign=shareopn&utm_medium=social&utm_psn=1786754855753207808&utm_source=wechat_session
 
-### 超越LLaVA-HD：深入高分辨率大型多模态模型
-[阅读更多](https://mp.weixin.qq.com/s/aJalNzQ9HaiRiD-74KntZA)
+软件开发公司报价1000/人/天高吗？-今日头条
+https://www.toutiao.com/video/7350924592715825679/?app=news_article&timestamp=1718772172&share_uid=MS4wLjABAAAAPbrn-ve5aObp9o9eyaKu_gxiA89qN9t5d61L2ZZJUk0&is_hit_share_recommend=0&utm_campaign=client_share&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&share_token=871c250b-0df8-47ed-a62b-d74ba06eac7a&source=m_redirect
 
-### 大语言模型笔面试-第10章
-[阅读更多](https://mp.weixin.qq.com/s/RNPA5rExiX47EQJtVoqIyw)
+NICE分享 | 大语言模型的时间魔法：从共时推理到框架优化
+https://mp.weixin.qq.com/s/cZXGk1q8Qrse4AOKyhCtBw
 
-### 从loss视角理解大模型涌现能力
-[阅读更多](https://mp.weixin.qq.com/s/2UCUrqAgXm8eWWDx89PGDA)
+ACL2024 | AI的时空穿越记：大型语言模型共时推理的奇幻之旅！
+https://mp.weixin.qq.com/s/_RjIDj36ecaVgZ4TjDRrrQ
 
-### Anna’s Archive 集成超星读秀500多万本图书资源，提供BT种子下载 - 知乎
-[阅读更多](https://zhuanlan.zhihu.com/p/688265961?utm_campaign=shareopn&utm_medium=social&utm_psn=1786380656361668608&utm_source=wechat_session)
+千卡集群大模型训练思考与总结
+https://mp.weixin.qq.com/s/Vam79IlQkuG7IO7nrGadPg
 
-### OmegaPRM：基于蒙特卡洛树搜索的 LLM 自动化过程监督方法
-[阅读更多](https://mp.weixin.qq.com/s/bcY-j7A2UHIoAgDr0FKi4A)
+大模型训练及推理经典必读：FP8的what，why，how及其带来的机会？
+https://mp.weixin.qq.com/s/Hyb04agEpGpwM4inn6CibA
 
-### 多模态能力升级，小米小爱同学获推V6.125.5正式版-今日头条
-[阅读更多](https://www.toutiao.com/article/7381386358751560242/?app=news_article&timestamp=1718671569&use_new_style=1&req_id=2024061808460959F876D5333FA77BDBD9&group_id=7381386358751560242&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=b1b95cf6-7e9b-4079-baeb-fd52ea8ea327&source=m_redirect)
+没有标记数据集，如何做大模型指令微调？介绍一款有潜力的标记数据集生成模型
+https://mp.weixin.qq.com/s/ZVpiDyAULRFoohpptA_YEg
 
-### 独一无二的AI应用实战经验！手搓AI智能体！-今日头条
-[阅读更多](https://www.toutiao.com/article/7381318921946694194/?app=news_article&timestamp=1718670606&use_new_style=1&req_id=202406180830065CA02392004CB774BE59&group_id=7381318921946694194&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=7fd88923-2e0f-46a4-8971-9ed743fb094f&source=m_redirect)
+ChattyUI - Run open-source LLMs locally in the browser using WebGPU | Product Hunt
+https://www.producthunt.com/posts/chattyui
+
+英伟达Nemotron-4 340B 技术报告厉害了
+https://mp.weixin.qq.com/s/TgqJzcQAxQ_csD1VcSfBCg
+
+当RAG遇上PDF表格，如何实现索引内容的精准回答
+https://mp.weixin.qq.com/s/uZmyaSo9qxQh-tKIR4265w
+
+杀疯了！谷歌卷视频到语音，逼真音效让AI视频告别无声！-今日头条
+https://www.toutiao.com/article/7381751181355254291/?app=news_article&timestamp=1718769251&use_new_style=1&req_id=2024061911541159FC7A6817B2D1042EE8&group_id=7381751181355254291&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=59933466-d104-47fa-ba38-d231816c813e&source=m_redirect
+
+重磅！新GPT-4-Turbo重新夺回大模型第一名！-今日头条
+https://www.toutiao.com/article/7356886700989137434/?app=news_article&timestamp=1718758498&use_new_style=1&req_id=2024061908545800EC5D3BAEEEE0426634&group_id=7356886700989137434&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=30e60d96-5f29-4cb8-b876-2adc472e768d&source=m_redirect
+
+大模型训练及推理经典必读：FP8的what，why，how及其带来的机会？
+https://mp.weixin.qq.com/s/Hyb04agEpGpwM4inn6CibA
+
